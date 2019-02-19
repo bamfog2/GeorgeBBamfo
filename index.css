@@ -1,0 +1,26 @@
+body{
+	background-image: url(george.jpeg)
+}
+
+.intro{
+	text-align: center;
+	color: grey;
+
+letter-spacing: 2px;
+	font-family: 'bebas_neueregular';
+
+font-size: 4.75em;
+
+text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.35);
+}
+
+#career{
+	text-align: center;
+	text-transform: uppercase !important;
+	color: black;
+}
+
+#resume{
+	position: relative;
+	left: 550px;
+}
